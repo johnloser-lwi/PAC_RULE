@@ -17,7 +17,15 @@ var china = [
   "qq.com",
   "iqiyi.com",
   "youku.com",
-  "gamersky.com"
+  "gamersky.com",
+  "kmf.com",
+  "bilibili.com",
+  "bilibili.cn",
+  "apple.com.cn",
+  "bilivideo.com",
+  "bilivideo.cn",
+  "biliapi.com",
+  "biliapi.net"
 ];
 
 
